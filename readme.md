@@ -1,3 +1,7 @@
+# Forked
+
+Forked from https://github.com/sindresorhus/fnv1a and ported to CommonJS. (I really want to move to ESM, but my work has a couple projects that just aren't ready for it yet. 😢)
+
 # fnv1a
 
 > [FNV-1a](https://en.wikipedia.org/wiki/Fowler%E2%80%93Noll%E2%80%93Vo_hash_function) non-cryptographic hash function

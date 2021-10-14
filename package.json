@@ -1,17 +1,17 @@
 {
-	"name": "@sindresorhus/fnv1a",
+	"name": "@bensjoberg/fnv1a",
 	"version": "3.0.0",
 	"description": "FNV-1a non-cryptographic hash function",
 	"license": "MIT",
-	"repository": "sindresorhus/fnv1a",
+	"repository": "bensjoberg/fnv1a",
 	"funding": "https://github.com/sponsors/sindresorhus",
 	"author": {
 		"name": "Sindre Sorhus",
 		"email": "sindresorhus@gmail.com",
 		"url": "https://sindresorhus.com"
 	},
-	"type": "module",
-	"exports": "./index.js",
+	"type": "commonjs",
+	"main": "./index.js",
 	"engines": {
 		"node": "^12.20.0 || ^14.13.1 || >=16.0.0"
 	},

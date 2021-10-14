@@ -1,5 +1,5 @@
-import test from 'ava';
-import fnv1a from './index.js';
+const test = require('ava');
+const fnv1a = require('./index.js');
 
 test('default', t => {
 	// Test 32-bit for various strings
